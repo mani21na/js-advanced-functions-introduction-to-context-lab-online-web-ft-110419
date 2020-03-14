@@ -8,4 +8,4 @@ let createEmployeeRecord = fuction(row) {
     timeInEvents: [],
     timeOutEvents: []
   }
-} 
+}
